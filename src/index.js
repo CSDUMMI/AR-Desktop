@@ -1,5 +1,5 @@
 /**
-index.js - The main function lives here
+ * index.js - The main function lives here
  */
 import "aframe";
 
@@ -7,14 +7,6 @@ import "./components/video-background";
 import "./components/browser";
 import "ar.js";
 
-
-function ready(fn) {
-  if (document.readyState != 'loading') {
-    fn();
-  } else {
-    document.addEventListener('DOMContentLoaded', fn);
-  }
-}
 
 function main() {
   var video = document.querySelector("#webcam");
