@@ -1,8 +1,7 @@
+/**
+index.js - The main function lives here
+ */
 import "aframe";
-/* import "aframe-event-set-component";
-import "super-hands";
-import "aframe-physics-system/dist/aframe-physics-system";
-import "aframe-physics-extras"; */
 
 import "./components/video-background";
 import "./components/browser";
@@ -30,5 +29,3 @@ function main() {
       });
   }
 }
-
-// ready(main);
