@@ -17,8 +17,11 @@
 
 
 ## About ❕
-
-In this work I would like to create an application that enforces augmented reality in the broad masses, which is not only for fun, but also for work and does not require large investments. This should be possible with a device that everyone already has: the smartphone.
+This project is an application, that promotes the adoption of augmented reality 
+as a technology for the average person.
+Not only as a fun experiment or game, but also
+for work and all this without requiring large investments.
+I want to do this by using the smartphone everybody already uses.
 
 For this purpose, I am developing a mixed reality application in a stereoscopic view as a browser extension for smartphones, with which the limits of the monitor can be left and the dimensions of the room can be used to work independently of location.
 
