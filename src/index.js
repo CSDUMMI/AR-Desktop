@@ -7,7 +7,10 @@ import "./components/video-background";
 import "./components/browser";
 import "ar.js";
 
-
+/**
+ * main function:
+ * initialize the webcam.
+ */
 function main() {
   var video = document.querySelector("#webcam");
 
